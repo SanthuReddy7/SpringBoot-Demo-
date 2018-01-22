@@ -1,0 +1,4 @@
+com\userRegistration\demo\exception\UserException.class
+com\userRegistration\demo\UserApplication.class
+com\userRegistration\demo\business\UserBusiness.class
+com\userRegistration\demo\controller\UserController.class
